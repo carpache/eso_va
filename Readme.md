@@ -5,3 +5,5 @@
 Para ejecutar el sistema debe poner:
 
 ''' npm install react '''
+
+Vamos con todo 
